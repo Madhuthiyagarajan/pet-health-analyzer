@@ -1,5 +1,6 @@
-# Pet Health Analyzer
+LIVE DEMO : https://madhuthiyagarajan.github.io/pet-health-analyzer/
 
+# Pet Health Analyzer
 An AI-powered web application that analyzes pet photos to detect possible health conditions and suggests nearby veterinary hospitals and NGOs for help.
 
 Features
